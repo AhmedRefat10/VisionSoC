@@ -34,12 +34,12 @@ Welcome to **VisionSoC**, your go-to image enhancement application powered by **
 
 2. **Install required Python libraries:**
     ```bash
-    pip install flask torch opencv-python numpy
+    pip install flask torch opencv-python numpy waitress
     ```
 
 3. **Run the application:**
     ```bash
-    python test.py
+    python app.py
     ```
 
 4. **Access the app:** Open your browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
